@@ -1,0 +1,13 @@
+{
+  "name": "server-realtime-apps",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "<ItsJoel88> <<imanuel.jodi@traveloka.com>>",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
